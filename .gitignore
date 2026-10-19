@@ -1,0 +1,21 @@
+# Archives and temporary files
+*.rar
+*.zip
+*.tar.gz
+*.7z
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Environment and sensitive data
+.env
+.env.local
+config.local.php
+
+# Web server logs
+*.log
+error_log
